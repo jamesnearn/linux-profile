@@ -1,0 +1,3 @@
+#!/bin/bash
+ln -s ~/linux-profile/.tmux.conf ../.tmux.conf
+ln -s ~/linux-profile/.vimrc ../.vimrc
