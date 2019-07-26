@@ -1,8 +1,8 @@
 #!/bin/bash
 sudo apt-get update
-sudo apt-get install openssh-server
-sudo apt-get install tmux
-sudo apt-get install vim
+sudo apt-get --yes install openssh-server
+sudo apt-get --yes install tmux
+sudo apt-get --yes install vim
 #sudo apt-get install motion
-sudo apt-get install arp-scan
+sudo apt-get --yes install arp-scan
 sudo apt-get autoremove
