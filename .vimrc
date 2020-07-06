@@ -35,3 +35,6 @@ inoremap kj <esc>
 
 set mouse=a
 :behave xterm
+
+set errorbells visualbell
+
