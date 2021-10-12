@@ -5,4 +5,5 @@ sudo apt-get --yes install tmux
 sudo apt-get --yes install vim
 #sudo apt-get install motion
 sudo apt-get --yes install arp-scan
+sudo apt-get --yes install apt-file
 sudo apt-get autoremove
