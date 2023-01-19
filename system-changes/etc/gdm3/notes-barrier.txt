@@ -1,0 +1,5 @@
+github.com/debauchee/barrier/issues/589
+
+uncomment
+WaylandEnable=false
+
