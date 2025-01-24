@@ -33,8 +33,8 @@ inoremap kj <esc>
 " caps lock. This is highly recommended.
 " let g:ctrlp_map = '<c-t>'
 
-set mouse=a
-:behave xterm
+"set mouse=a
+":behave xterm
 
 set errorbells visualbell
 

@@ -7,5 +7,6 @@ sudo apt-get --yes install vim
 sudo apt-get --yes install arp-scan
 sudo apt-get --yes install apt-file
 sudo apt-get --yet install crudini
+sudo apt-get --yet install neofetch
 sudo apt-get autoremove
 ssh-keygen
